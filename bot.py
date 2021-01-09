@@ -1,4 +1,5 @@
-
+#!/usr/bin/python3
+# -*- Coding: utf-8 -*-
 from telebot import TeleBot
 from telebot import types
 
